@@ -1,0 +1,5 @@
+{
+    "@react-native-community/async-storage": "1.12.1",
+    "react-native-device-info": "8.0.1",
+    "react-native-action-button": "2.8.5"
+}
