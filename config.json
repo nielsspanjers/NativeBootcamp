@@ -94,5 +94,8 @@
         "nativeOTA": {
             "enabled": false
         }
-    }
+    },
+    "appVersion": "0.0.1",
+    "buildNumber": 1,
+    "runtimeUrl": "https://nativebootcamp100-sandbox.mxapps.io/"
 }
